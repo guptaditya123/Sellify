@@ -7,7 +7,6 @@
 ## ✨ Features
 
 - 🔐 User registration & login (with JWT auth)
-- 🛍️ Browse and search products
 - 🛒 Add to cart & checkout functionality
 - 💳 Secure payments with **Stripe**
 - 📱 Mobile responsive UI
