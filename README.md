@@ -1,6 +1,6 @@
-# 🛒 ReBazaar
+# 🛒 Sellify
 
-**ReBazaar** is a full-stack e-commerce web application built using the MERN stack. It allows users to browse, search, and purchase products with a smooth shopping experience. Features include Stripe payment integration, user authentication, and an admin dashboard to manage the store.
+**SELLIFY** is a full-stack e-commerce web application built using the MERN stack. It allows users to browse, search, and purchase products with a smooth shopping experience. Features include Stripe payment integration, user authentication, and an admin dashboard to manage the store.
 
 ---
 
@@ -10,8 +10,6 @@
 - 🛍️ Browse and search products
 - 🛒 Add to cart & checkout functionality
 - 💳 Secure payments with **Stripe**
-- 🧾 Order tracking
-- 🛠️ Admin panel to manage inventory
 - 📱 Mobile responsive UI
 
 ---
